@@ -1,7 +1,7 @@
 # Homework # 6. (Docker)
 
 ---
-![Main workflow](https://github.com/hillel-i-python-pro-i-2022-08-26/homework__docker__V_Marakhovskyi/actions/workflows/main-workflow.yml/badge.svg)
+![Main workflow](https://github.com/hillel-i-python-pro-i-2022-08-26/homework__6__docker__V.Marakhovskyi/actions/workflows/main-workflow.yml/badge.svg)
 ![IDE](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![REPO](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![docker](https://badgen.net/badge/topic:/docker/blue)
